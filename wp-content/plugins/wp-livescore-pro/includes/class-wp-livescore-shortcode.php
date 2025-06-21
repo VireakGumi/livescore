@@ -16,7 +16,6 @@ class WP_Livescore_Shortcode
         wp_localize_script('wp-livescore-script', 'wpLivescore', [
             'ajax_url'    => admin_url('admin-ajax.php'),
             'plugin_url'  => WP_LIVESCORES_PLUGIN_URL,
-            // 'refresh_interval' => 30000 
         ]);
     }
 
