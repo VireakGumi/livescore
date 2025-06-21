@@ -1,0 +1,106 @@
+[
+  {
+    "league": "Premier League",
+    "home_team": "Manchester City",
+    "away_team": "Arsenal",
+    "score": "2 - 1",
+    "time": "FT",
+    "status": "Finished"
+  },
+  {
+    "league": "Premier League",
+    "home_team": "Liverpool",
+    "away_team": "Chelsea",
+    "score": "5 - 1",
+    "time": "75'",
+    "status": "Live"
+  },
+  {
+    "league": "Premier League",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "",
+    "time": "20:00",
+    "status": "Scheduled"
+  },
+  {
+    "league": "Ligue 1",
+    "home_team": "PSG",
+    "away_team": "Lyon",
+    "score": "5 - 2",
+    "time": "FT",
+    "status": "Finished"
+  },
+  {
+    "league": "Ligue 1",
+    "home_team": "Marseille",
+    "away_team": "Monaco",
+    "score": "0 - 0",
+    "time": "40'",
+    "status": "Live"
+  },
+  {
+    "league": "Bundesliga",
+    "home_team": "Bayern Munich",
+    "away_team": "Dortmund",
+    "score": "3 - 2",
+    "time": "FT",
+    "status": "Finished"
+  },
+  {
+    "league": "Bundesliga",
+    "home_team": "Leipzig",
+    "away_team": "Frankfurt",
+    "score": "",
+    "time": "18:30",
+    "status": "Scheduled"
+  },
+  {
+    "league": "Serie A",
+    "home_team": "Juventus",
+    "away_team": "AC Milan",
+    "score": "0 - 0",
+    "time": "HT",
+    "status": "Live"
+  },
+  {
+    "league": "Serie A",
+    "home_team": "Inter",
+    "away_team": "Roma",
+    "score": "2 - 1",
+    "time": "FT",
+    "status": "Finished"
+  },
+  {
+    "league": "LaLiga",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "score": "1 - 1",
+    "time": "45+2'",
+    "status": "Live"
+  },
+  {
+    "league": "LaLiga",
+    "home_team": "Atletico Madrid",
+    "away_team": "Sevilla",
+    "score": "",
+    "time": "21:00",
+    "status": "Scheduled"
+  },
+  {
+    "league": "Champions League",
+    "home_team": "Man City",
+    "away_team": "Real Madrid",
+    "score": "4 - 3",
+    "time": "FT",
+    "status": "Finished"
+  },
+  {
+    "league": "Champions League",
+    "home_team": "Bayern",
+    "away_team": "PSG",
+    "score": "",
+    "time": "22:00",
+    "status": "Scheduled"
+  }
+]
